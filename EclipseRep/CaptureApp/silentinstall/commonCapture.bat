@@ -1,0 +1,1 @@
+start /wait VMware-appvolumesxmp-appcapture-1.0.0.359.exe /S /v/qn
